@@ -1,0 +1,194 @@
+[
+  {
+    "name": "VIBit Lite",
+    "image_url": "https://cimcondigital.com/wp-content/uploads/2023/05/FFT-1024x550.png",
+    "images": [
+      "https://cimcondigital.com/wp-content/uploads/2023/05/FFT-1024x550.png"
+    ],
+    "price": null,
+    "canonical_name": "vibit-lite",
+    "source": "ai",
+    "description": "VIBit Lite is a powerful vibration sensor designed for predictive maintenance. It provides accurate and reliable data on machine vibration, temperature, and more. With its 3-Axis acceleration RMS, 3-Axis Velocity RMS, temperature monitoring, and 1-10x FFT features, VIBit Lite offers unmatched precision for monitoring machine performance. The product offers the same level of reliability as CIMCON Digital’s flagship product, VIBit, without the need to stream data into the cloud.",
+    "link": "https://cimcondigital.com/vibit-lite/",
+    "metadata": { },
+    "tags": [
+      "Vibration Sensor",
+      "Predictive Maintenance",
+      "Machine Performance",
+      "Temperature Monitoring",
+      "3-Axis Acceleration RMS",
+      "3-Axis Velocity RMS",
+      "1-10x FFT",
+      "CIMCON Digital",
+      "VIBit",
+      "Edge Processing",
+      "CIM10"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "VIBit Battery Powered",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "vibit-battery-powered",
+    "source": "ai",
+    "description": "VIBit Battery Powered is a wireless vibration sensor that can be used to monitor the health of industrial equipment. It is a key component of CIMCON Digital's MachineAstro, a new machine-learning platform that helps machine OEMs analyze data and make decisions to reach their net zero goals.",
+    "link": "https://cimcondigital.com/vibit-battery-powered/",
+    "metadata": { },
+    "tags": [
+      "Vibration Sensor",
+      "Wireless",
+      "Industrial Equipment",
+      "Machine Health",
+      "MachineAstro",
+      "Machine Learning",
+      "Net Zero Goals"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "CIM10",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "cim10",
+    "source": "ai",
+    "description": "CIM10 is an intelligent edge device that can be used to collect and analyze data from industrial equipment. It is compatible with VIBit Lite and can be used to run advanced AI-based anomaly detection and diagnostic algorithms to predict and report on various faults such as misalignment, imbalance, structural and rotating looseness, soft foot, and more.",
+    "link": "https://cimcondigital.com/cim10/",
+    "metadata": { },
+    "tags": [
+      "Intelligent Edge Device",
+      "Data Collection",
+      "Data Analysis",
+      "Industrial Equipment",
+      "VIBit Lite",
+      "AI-based Anomaly Detection",
+      "Diagnostic Algorithms",
+      "Misalignment",
+      "Imbalance",
+      "Structural Looseness",
+      "Rotating Looseness",
+      "Soft Foot"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "iEdge 360",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "enabling-digital-transformation",
+    "source": "ai",
+    "description": "iEdge 360 is a comprehensive IoT platform that provides real-time insights, predictive maintenance capabilities, and process automation solutions. It is designed to help businesses improve efficiency, reduce costs, and increase sustainability.",
+    "link": "https://cimcondigital.com/enabling-digital-transformation/",
+    "metadata": { },
+    "tags": [
+      "IoT Platform",
+      "Real-time Insights",
+      "Predictive Maintenance",
+      "Process Automation",
+      "Efficiency",
+      "Cost Reduction",
+      "Sustainability"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "CIMcloud",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "icloud",
+    "source": "ai",
+    "description": "CIMcloud is a cloud-based platform that provides secure and scalable data storage, processing, and analytics capabilities. It is designed to support CIMCON Digital's IoT solutions and enable businesses to gain valuable insights from their data.",
+    "link": "https://cimcondigital.com/icloud/",
+    "metadata": { },
+    "tags": [
+      "Cloud-based Platform",
+      "Data Storage",
+      "Data Processing",
+      "Data Analytics",
+      "Security",
+      "Scalability",
+      "IoT Solutions"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "CIMdata",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "data-drives",
+    "source": "ai",
+    "description": "CIMdata is a data-driven platform that provides advanced analytics and visualization tools. It is designed to help businesses understand their data and make informed decisions.",
+    "link": "https://cimcondigital.com/data-drives/",
+    "metadata": { },
+    "tags": [
+      "Data-driven Platform",
+      "Analytics",
+      "Visualization",
+      "Data Understanding",
+      "Decision Making"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "Machine Astro",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "machine-astro",
+    "source": "ai",
+    "description": "Machine Astro is a machine-learning platform that helps machine OEMs analyze data and make decisions to reach their net zero goals. It uses advanced algorithms to identify patterns and trends in data, and provide insights that can be used to optimize machine performance and reduce emissions.",
+    "link": "https://cimcondigital.com/machine-astro/",
+    "metadata": { },
+    "tags": [
+      "Machine Learning",
+      "Machine OEMs",
+      "Data Analysis",
+      "Net Zero Goals",
+      "Machine Performance",
+      "Emissions Reduction"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "Anomaly Detection",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "machine-anomaly",
+    "source": "ai",
+    "description": "CIMCON Digital's Anomaly Detection solution uses advanced algorithms to identify unusual patterns and behaviors in machine data. This helps to predict potential failures and prevent costly downtime.",
+    "link": "https://cimcondigital.com/machine-anomaly/",
+    "metadata": { },
+    "tags": [
+      "Anomaly Detection",
+      "Machine Data",
+      "Predictive Failure",
+      "Downtime Prevention"
+    ],
+    "product": "123456"
+  },
+  {
+    "name": "Muni-AI Chatbot",
+    "image_url": null,
+    "images": [],
+    "price": null,
+    "canonical_name": "muni-ai-asset-insights",
+    "source": "ai",
+    "description": "Muni-AI Chatbot is an AI-powered chatbot that can be used to provide 24/7 support and assistance to customers. It can answer questions about CIMCON Digital's products and services, and provide guidance on troubleshooting issues.",
+    "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+    "metadata": { },
+    "tags": [
+      "AI-powered Chatbot",
+      "24/7 Support",
+      "Customer Assistance",
+      "Products and Services",
+      "Troubleshooting"
+    ],
+    "product": "123456"
+  }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "icon": "LogoFacebook",
+        "link": "https://www.facebook.com/CIMCON-Digital-101686075498818",
+        "name": "facebook"
+    },
+    {
+        "icon": "LogoInstagram",
+        "link": "#",
+        "name": "instagram"
+    },
+    {
+        "icon": "LogoTwitter",
+        "link": "https://twitter.com/cimconD",
+        "name": "twitter"
+    },
+    {
+        "icon": "LogoLinkedin",
+        "link": "https://www.linkedin.com/company/cimcon-digital/",
+        "name": "linkedin"
+    },
+    {
+        "icon": "GlobeOutline",
+        "link": "https://cimcondigital.com",
+        "name": "website"
+    }
+]

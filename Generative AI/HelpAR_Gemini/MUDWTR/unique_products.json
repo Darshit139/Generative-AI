@@ -1,0 +1,589 @@
+[
+    {
+        "name": "Original Starter Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/Cacao_1.png?v=1711489073&width=1534",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/Cacao_1.png?v=1711489073&width=1534",
+            "//mudwtr.com/cdn/shop/files/Cacao_2.png?v=1711489071&width=1534",
+            "//mudwtr.com/cdn/shop/files/Cacao_3.png?v=1711489072&width=1534",
+            "//mudwtr.com/cdn/shop/files/RiseValueProps_4_1.png?v=1711489090&width=1534",
+            "//mudwtr.com/cdn/shop/files/Cacao_5.png?v=1711489090&width=1534",
+            "//mudwtr.com/cdn/shop/files/Cacao_6.png?v=1711489090&width=1534"
+        ],
+        "price": 4000,
+        "canonical_name": "original-starter-kit",
+        "source": "ai",
+        "description": "MUDWTR\u2122 is a coffee alternative consisting of organic, earth-grown ingredients lauded by cultures old and young around the world for their health and performance benefits. Packed with adaptogenic mushroom compounds, each ingredient was included in this blend for a specific purpose to complement a life that demands one's best.",
+        "link": "https://mudwtr.com/products/30-servings-tin",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Coffee Alternative",
+            "Organic",
+            "Mushroom",
+            "Health",
+            "Performance",
+            "Adaptogenic",
+            "MUDWTR",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "No Crash",
+            "No Dependency",
+            "Earth-Grown Ingredients",
+            "Cultures",
+            "Young",
+            "Old",
+            "Natural Ingredients",
+            "Health Benefits",
+            "Morning Ritual",
+            "Starter Kit"
+        ]
+    },
+    {
+        "name": "Matcha Starter Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/Matcha_1.png?v=1711488873&width=1534",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/Matcha_1.png?v=1711488873&width=1534",
+            "//mudwtr.com/cdn/shop/files/Matcha_2.png?v=1711488872&width=1534",
+            "//mudwtr.com/cdn/shop/files/Matcha_3.png?v=1711488871&width=1534",
+            "//mudwtr.com/cdn/shop/files/RiseValueProps_4_2.png?v=1711488910&width=1534",
+            "//mudwtr.com/cdn/shop/files/Matcha_5.png?v=1711488910&width=1534",
+            "//mudwtr.com/cdn/shop/files/Matcha_6.png?v=1711488910&width=1534"
+        ],
+        "price": 4000,
+        "canonical_name": "matcha-starter-kit",
+        "source": "ai",
+        "description": "Earthy matcha meets subtly sweet and spicy chai in this blend that tastes like dancing barefoot in the grass. Energy | Focus | No Jitters | Sleep Quality | Immunity Support. 55mg Caffeine | 3,000mg Beneficial Adaptogens | No Sugar.",
+        "link": "/products/matcha-starter-kit",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Matcha",
+            "Starter Kit",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "Sleep Quality",
+            "Immunity Support",
+            "Caffeine",
+            "Adaptogens",
+            "Sugar Free"
+        ]
+    },
+    {
+        "name": "Turmeric Starter Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/Turmeric_1.png?v=1711489014&width=1534",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/Turmeric_1.png?v=1711489014&width=1534",
+            "//mudwtr.com/cdn/shop/files/Turmeric_2.png?v=1711489014&width=1534",
+            "//mudwtr.com/cdn/shop/files/Turmeric_3.png?v=1711489014&width=1534",
+            "//mudwtr.com/cdn/shop/files/RiseValueProps_4.png?v=1711489011&width=1534",
+            "//mudwtr.com/cdn/shop/files/Turmeric_5.png?v=1711488995&width=1534",
+            "//mudwtr.com/cdn/shop/files/Turmeric_6.png?v=1711488995&width=1534"
+        ],
+        "price": 4000,
+        "canonical_name": "turmeric-starter-kit",
+        "source": "ai",
+        "description": "Radiant turmeric pairs with warm rooibos chai in this bold and fiery blend that tastes like golden hour at sunset.  It is a healthy alternative to coffee, providing a natural energy boost and a variety of health benefits.",
+        "link": "/products/turmeric-starter-kit?view=main",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Turmeric",
+            "Starter Kit",
+            "Rooibos Chai",
+            "Golden Hour",
+            "Sunset",
+            "Healthy Alternative to Coffee",
+            "Natural Energy Boost",
+            "Health Benefits"
+        ]
+    },
+    {
+        "name": "Rest Starter Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/Rooibos_1.png?v=1711490715&width=1534",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/Rooibos_1.png?v=1711490715&width=1534",
+            "//mudwtr.com/cdn/shop/files/Rooibos_2.png?v=1711490716&width=1534",
+            "//mudwtr.com/cdn/shop/files/Rooibos_3.png?v=1711490713&width=1534",
+            "//mudwtr.com/cdn/shop/files/Rooibos_4.png?v=1711490714&width=1534",
+            "//mudwtr.com/cdn/shop/files/Rooibos_5.png?v=1711490718&width=1534",
+            "//mudwtr.com/cdn/shop/files/Rooibos_6.png?v=1711490713&width=1534"
+        ],
+        "price": 4000,
+        "canonical_name": "rest-starter-kit",
+        "source": "ai",
+        "description": "MUDWTR's Rest Starter Kit is a caffeine-free blend designed to help you unwind and prepare for a restful night's sleep. It features rooibos chai, turmeric, cinnamon, and a blend of adaptogens and herbs, including ashwagandha, reishi, turkey tail, valerian root, and passionflower, to promote relaxation and calm. The kit includes a 30-serving tin of Rest blend, a free rechargeable frother, a guidebook, and samples of :creamer and :sweetener. ",
+        "link": "/products/rest-starter-kit",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Rest",
+            "Rooibos Chai",
+            "Turmeric",
+            "Cinnamon",
+            "Ashwagandha",
+            "Reishi",
+            "Turkey Tail",
+            "Valerian Root",
+            "Passionflower",
+            "Relaxation",
+            "Calm",
+            "Caffeine-Free",
+            "Sleep",
+            "Starter Kit",
+            "MUDWTR"
+        ]
+    },
+    {
+        "name": "Original Latte Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_6d06ffa0-0484-427e-9b87-1c74006da60e.png?v=1698093857&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_6d06ffa0-0484-427e-9b87-1c74006da60e.png?v=1698093857&width=1100"
+        ],
+        "price": 5400,
+        "canonical_name": "original-latte-kit",
+        "source": "ai",
+        "description": "This latte kit is a delicious and convenient way to enjoy MUDWTR at home. It includes everything you need to make a perfect latte: a 30-serving tin of MUDWTR, a frother, and a guidebook. It is perfect for those who are looking for a healthier alternative to coffee.",
+        "link": "/products/rise-cacao-latte-kit",
+        "metadata": {},
+        "tags": [
+            "Coffee Alternative",
+            "Organic",
+            "Mushroom",
+            "Health",
+            "Performance",
+            "Adaptogenic",
+            "MUDWTR",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "No Crash",
+            "No Dependency",
+            "Earth-Grown Ingredients",
+            "Cultures",
+            "Young",
+            "Old",
+            "Natural Ingredients",
+            "Health Benefits",
+            "Morning Ritual",
+            "Starter Kit"
+        ],
+        "product": "123456"
+    },
+    {
+        "name": "Matcha Latte Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_b87f1ae2-184c-4958-93f6-127d6ee86155.png?v=1698095187&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_b87f1ae2-184c-4958-93f6-127d6ee86155.png?v=1698095187&width=1100"
+        ],
+        "price": 5400,
+        "canonical_name": "matcha-latte-kit",
+        "source": "ai",
+        "description": "This latte kit is a delicious and convenient way to enjoy MUDWTR at home. It includes everything you need to make a perfect latte: a 30-serving tin of MUDWTR, a frother, and a guidebook. It is perfect for those who are looking for a healthier alternative to coffee.",
+        "link": "/products/rise-matcha-latte-kit",
+        "metadata": {},
+        "tags": [
+            "Coffee Alternative",
+            "Organic",
+            "Mushroom",
+            "Health",
+            "Performance",
+            "Adaptogenic",
+            "MUDWTR",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "No Crash",
+            "No Dependency",
+            "Earth-Grown Ingredients",
+            "Cultures",
+            "Young",
+            "Old",
+            "Natural Ingredients",
+            "Health Benefits",
+            "Morning Ritual",
+            "Starter Kit"
+        ],
+        "product": "123456"
+    },
+    {
+        "name": "Turmeric Latte Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_3e0f4349-057f-4f40-a596-2b9fc7b50574.png?v=1698095476&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_3e0f4349-057f-4f40-a596-2b9fc7b50574.png?v=1698095476&width=1100"
+        ],
+        "price": 5400,
+        "canonical_name": "turmeric-latte-kit",
+        "source": "ai",
+        "description": "This latte kit is a delicious and convenient way to enjoy MUDWTR at home. It includes everything you need to make a perfect latte: a 30-serving tin of MUDWTR, a frother, and a guidebook. It is perfect for those who are looking for a healthier alternative to coffee.",
+        "link": "/products/balance-turmeric-latte-kit",
+        "metadata": {},
+        "tags": [
+            "Coffee Alternative",
+            "Organic",
+            "Mushroom",
+            "Health",
+            "Performance",
+            "Adaptogenic",
+            "MUDWTR",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "No Crash",
+            "No Dependency",
+            "Earth-Grown Ingredients",
+            "Cultures",
+            "Young",
+            "Old",
+            "Natural Ingredients",
+            "Health Benefits",
+            "Morning Ritual",
+            "Starter Kit"
+        ],
+        "product": "123456"
+    },
+    {
+        "name": "Rest Latte Kit",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_dd0a3d4a-fe03-4437-bc70-5648dd6c8591.png?v=1698095941&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_dd0a3d4a-fe03-4437-bc70-5648dd6c8591.png?v=1698095941&width=1100"
+        ],
+        "price": 5400,
+        "canonical_name": "rest-latte-kit",
+        "source": "ai",
+        "description": "This latte kit is a delicious and convenient way to enjoy MUDWTR at home. It includes everything you need to make a perfect latte: a 30-serving tin of MUDWTR, a frother, and a guidebook. It is perfect for those who are looking for a healthier alternative to coffee.",
+        "link": "/products/rest-rooibos-latte-kit",
+        "metadata": {},
+        "tags": [
+            "Coffee Alternative",
+            "Organic",
+            "Mushroom",
+            "Health",
+            "Performance",
+            "Adaptogenic",
+            "MUDWTR",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "No Crash",
+            "No Dependency",
+            "Earth-Grown Ingredients",
+            "Cultures",
+            "Young",
+            "Old",
+            "Natural Ingredients",
+            "Health Benefits",
+            "Morning Ritual",
+            "Starter Kit"
+        ],
+        "product": "123456"
+    },
+    {
+        "name": "Original 30 Servings",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_aa6c83a3-9c3c-4cbb-8447-c9c2f7cb9d04.png?v=1698093927&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_aa6c83a3-9c3c-4cbb-8447-c9c2f7cb9d04.png?v=1698093927&width=1100"
+        ],
+        "price": 4000,
+        "canonical_name": "original-30-servings",
+        "source": "ai",
+        "description": "Enjoy MUDWTR's Original blend in a convenient 30-serving tin.",
+        "link": "/products/30-serving-tin",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Original",
+            "MUDWTR",
+            "Coffee Alternative",
+            "Functional Beverage",
+            "Cacao",
+            "Mushrooms",
+            "Chaga",
+            "Reishi",
+            "Lion's Mane",
+            "Cordyceps",
+            "Energy Boost",
+            "Health Benefits",
+            "Sustainability",
+            "American-Grown Mushrooms",
+            "Globally Sourced Ingredients"
+        ]
+    },
+    {
+        "name": "Original 90 Servings",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_1dd992a7-640e-4806-a1bc-baece72e48c5.png?v=1698094175&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_1dd992a7-640e-4806-a1bc-baece72e48c5.png?v=1698094175&width=1100"
+        ],
+        "price": 10000,
+        "canonical_name": "original-90-servings",
+        "source": "ai",
+        "description": "Enjoy 90 servings of MUDWTR's Original blend, a rich chocolate and chai flavored beverage.",
+        "link": "/products/90-serving-bag",
+        "metadata": {},
+        "tags": [
+            "Original",
+            "MUDWTR",
+            "Coffee Alternative",
+            "Mushroom Blend"
+        ],
+        "product": "123456"
+    },
+    {
+        "name": "Coconut Sweetener (30 serving)",
+        "image_url": "//mudwtr.com/cdn/shop/files/sweetener_30_collection.jpg?v=1634688494&width=1445",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/sweetener_30_collection.jpg?v=1634688494&width=1445"
+        ],
+        "price": 2000,
+        "canonical_name": "coconut-sweetener-30-serving",
+        "source": "ai",
+        "description": "MUDWTR\u2122 is a coffee alternative consisting of organic, earth-grown ingredients lauded by cultures old and young around the world for their health and performance benefits. Packed with adaptogenic mushroom compounds, each ingredient was included in this blend for a specific purpose to complement a life that demands one's best.",
+        "link": "/products/30-serving-sweetener-bag",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Coffee Alternative",
+            "Organic",
+            "Mushroom",
+            "Health",
+            "Performance",
+            "Adaptogenic",
+            "MUDWTR",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "No Crash",
+            "No Dependency",
+            "Earth-Grown Ingredients",
+            "Cultures",
+            "Young",
+            "Old",
+            "Natural Ingredients",
+            "Health Benefits",
+            "Morning Ritual",
+            "Starter Kit"
+        ]
+    },
+    {
+        "name": "Coconut Creamer (30 serving)",
+        "image_url": "//mudwtr.com/cdn/shop/products/creamer301.jpg?v=1634841275&width=300",
+        "images": [
+            "//mudwtr.com/cdn/shop/products/creamer301.jpg?v=1634841275&width=300"
+        ],
+        "price": 2000,
+        "canonical_name": "coconut-creamer-30-serving",
+        "source": "ai",
+        "description": "Organic, vegan, gluten-free, sugar-free powdered coconut milk & MCT oil that turns your cup into a super-powered silky smooth latte.  It is a great addition to MUDWTR for a creamy, decadent experience.",
+        "link": null,
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Coconut Creamer",
+            "Organic",
+            "Vegan",
+            "Gluten-Free",
+            "Sugar-Free",
+            "Powdered Coconut Milk",
+            "MCT Oil",
+            "Latte",
+            "MUDWTR",
+            "Creamer"
+        ]
+    },
+    {
+        "name": "Mud Whip",
+        "image_url": "//mudwtr.com/cdn/shop/files/collection-whip.png?v=1698277196&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/collection-whip.png?v=1698277196&width=1100"
+        ],
+        "price": 2000,
+        "canonical_name": "mud-whip",
+        "source": "ai",
+        "description": "A delicious and healthy creamer that is perfect for adding to your MUDWTR. Made with organic coconut milk powder, MCT powder, acacia fiber, and tapioca maltodextrin, this creamer is dairy-free, gluten-free, and vegan.",
+        "link": "/products/mud-whip",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Creamer",
+            "Organic",
+            "Coconut Milk",
+            "MCT Oil",
+            "Dairy-Free",
+            "Gluten-Free",
+            "Vegan"
+        ]
+    },
+    {
+        "name": "Trends w/Benefits Newspaper",
+        "image_url": "//mudwtr.com/cdn/shop/files/collection-newspaper.png?v=1698277330&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/collection-newspaper.png?v=1698277330&width=1100"
+        ],
+        "price": 25,
+        "canonical_name": "trends-w-benefits-newspaper",
+        "source": "ai",
+        "description": "MUDWTR\u2122 is a coffee alternative consisting of organic, earth-grown ingredients lauded by cultures old and young around the world for their health and performance benefits. Packed with adaptogenic mushroom compounds, each ingredient was included in this blend for a specific purpose to complement a life that demands one's best.",
+        "link": "/products/trends-w-benefits-newspaper",
+        "metadata": {},
+        "tags": [
+            "Coffee Alternative",
+            "Organic",
+            "Mushroom",
+            "Health",
+            "Performance",
+            "Adaptogenic",
+            "MUDWTR",
+            "Energy",
+            "Focus",
+            "No Jitters",
+            "No Crash",
+            "No Dependency",
+            "Earth-Grown Ingredients",
+            "Cultures",
+            "Young",
+            "Old",
+            "Natural Ingredients",
+            "Health Benefits",
+            "Morning Ritual",
+            "Starter Kit"
+        ],
+        "product": "123456"
+    },
+    {
+        "name": "F*ck Coffee Mug",
+        "image_url": "//mudwtr.com/cdn/shop/files/collection-mug.png?v=1698277401&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/collection-mug.png?v=1698277401&width=1100"
+        ],
+        "price": 2500,
+        "canonical_name": "f*ck-coffee-mug",
+        "source": "ai",
+        "description": "Show your love for MUDWTR and your disdain for coffee with our F*ck Coffee Mug. This mug is perfect for anyone who is looking for a healthier and more sustainable alternative to coffee. It is made with durable ceramic and features a bold and edgy design.",
+        "link": "/products/mug",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "MUDWTR",
+            "Coffee",
+            "Mug",
+            "Ceramic",
+            "Sustainable"
+        ]
+    },
+    {
+        "name": "Chai Believe Mug",
+        "image_url": "//mudwtr.com/cdn/shop/files/collection-chai-mug.png?v=1698277474&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/collection-chai-mug.png?v=1698277474&width=1100"
+        ],
+        "price": 2500,
+        "canonical_name": "chai-believe-mug",
+        "source": "ai",
+        "description": "A beautiful mug that is perfect for enjoying your favorite MUDWTR flavor. Made with durable ceramic and features a bold and inspirational design.",
+        "link": "/products/mug-1",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "MUDWTR",
+            "Mug",
+            "Ceramic",
+            "Chai"
+        ]
+    },
+    {
+        "name": "Matcha 30 Servings",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_2eef581a-c296-487c-acb5-00b625f3337c.png?v=1698095274&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_2eef581a-c296-487c-acb5-00b625f3337c.png?v=1698095274&width=1100"
+        ],
+        "price": 4000,
+        "canonical_name": "matcha-30-servings",
+        "source": "ai",
+        "description": "Enjoy MUDWTR's Matcha blend in a convenient 30-serving tin.",
+        "link": "/products/30-serving-rise-matcha",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Matcha",
+            "MUDWTR",
+            "Coffee Alternative",
+            "Functional Beverage",
+            "Cacao",
+            "Mushrooms",
+            "Chaga",
+            "Reishi",
+            "Lion's Mane",
+            "Cordyceps",
+            "Energy Boost",
+            "Health Benefits",
+            "Sustainability",
+            "American-Grown Mushrooms",
+            "Globally Sourced Ingredients"
+        ]
+    },
+    {
+        "name": "Turmeric 30 Servings",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_d5758a6b-4ca9-4f13-820b-4b84104088f9.png?v=1698095565&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_d5758a6b-4ca9-4f13-820b-4b84104088f9.png?v=1698095565&width=1100"
+        ],
+        "price": 4000,
+        "canonical_name": "turmeric-30-servings",
+        "source": "ai",
+        "description": "Enjoy MUDWTR's Turmeric blend in a convenient 30-serving tin.",
+        "link": "/products/30-serving-balance-turmeric",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Turmeric",
+            "MUDWTR",
+            "Coffee Alternative",
+            "Functional Beverage",
+            "Cacao",
+            "Mushrooms",
+            "Chaga",
+            "Reishi",
+            "Lion's Mane",
+            "Cordyceps",
+            "Energy Boost",
+            "Health Benefits",
+            "Sustainability",
+            "American-Grown Mushrooms",
+            "Globally Sourced Ingredients"
+        ]
+    },
+    {
+        "name": "Rest 30 Servings",
+        "image_url": "//mudwtr.com/cdn/shop/files/product_image_8558c45f-1038-4a04-8615-17ddc41be2a0.png?v=1698096002&width=1100",
+        "images": [
+            "//mudwtr.com/cdn/shop/files/product_image_8558c45f-1038-4a04-8615-17ddc41be2a0.png?v=1698096002&width=1100"
+        ],
+        "price": 4000,
+        "canonical_name": "rest-30-servings",
+        "source": "ai",
+        "description": "Enjoy MUDWTR's Rest blend in a convenient 30-serving tin.",
+        "link": "/products/30-serving-rest",
+        "metadata": {},
+        "product": "123456",
+        "tags": [
+            "Rest",
+            "MUDWTR",
+            "Coffee Alternative",
+            "Functional Beverage",
+            "Cacao",
+            "Mushrooms",
+            "Chaga",
+            "Reishi",
+            "Lion's Mane",
+            "Cordyceps",
+            "Energy Boost",
+            "Health Benefits",
+            "Sustainability",
+            "American-Grown Mushrooms",
+            "Globally Sourced Ingredients"
+        ]
+    }
+]

@@ -1,0 +1,245 @@
+{
+    "name": "Your MUDWTR Starter Kit Quiz",
+    "description": "Discover your ideal MUDWTR experience with this quick quiz. Let's find the perfect blend for you!",
+    "priority": 1,
+    "results": [
+        {
+            "title": "Your MUDWTR Starter Kit Results...",
+            "label": "The MUDWTR Newbie",
+            "description": "You're just starting your journey with MUDWTR!  The Starter Kit is the perfect way to explore the flavors and discover your perfect blend.",
+            "image_url": "https://i.imgur.com/8UdKNS4.jpeg",
+            "result_calculation": {
+                "min": 0,
+                "max": 5
+            },
+            "reward": {
+                "reward_type": "points",
+                "value": "1000",
+                "description": "You've earned 1,000 midwater loyalty points"
+            }
+        },
+        {
+            "title": "Your MUDWTR Starter Kit Results...",
+            "label": "The MUDWTR Enthusiast",
+            "description": "You're a seasoned MUDWTR fan, always looking for new ways to enjoy it! The Starter Kit will help you expand your horizons with new flavors and blends.",
+            "image_url": "https://i.imgur.com/8UdKNS4.jpeg",
+            "result_calculation": {
+                "min": 6,
+                "max": 10
+            },
+            "reward": {
+                "reward_type": "points",
+                "value": "1000",
+                "description": "You've earned 1,000 midwater loyalty points"
+            }
+        },
+        {
+            "title": "Your MUDWTR Starter Kit Results...",
+            "label": "The MUDWTR Connoisseur",
+            "description": "You're a true MUDWTR aficionado! The Starter Kit will allow you to elevate your MUDWTR experience with a curated selection of blends and accessories.",
+            "image_url": "https://i.imgur.com/8UdKNS4.jpeg",
+            "result_calculation": {
+                "min": 11,
+                "max": 15
+            },
+            "reward": {
+                "reward_type": "points",
+                "value": "1000",
+                "description": "You've earned 1,000 midwater loyalty points"
+            }
+        }
+    ],
+    "cards": [
+        {
+            "card_type": "simple",
+            "key": "energy-source",
+            "order": 0,
+            "content": {
+                "title": "What's your go-to for a morning pick-me-up?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "Coffee, always coffee!",
+                        "key": "coffee",
+                        "description": null,
+                        "points": 1
+                    },
+                    {
+                        "label": "I need something healthier, like tea",
+                        "key": "tea",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "A smoothie or a healthy snack",
+                        "key": "smoothie",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "I'm not really a morning person, I just want to sleep!",
+                        "key": "sleep",
+                        "description": null,
+                        "points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 1,
+            "key": "focus-boost",
+            "content": {
+                "title": "What helps you stay focused and productive?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "A big cup of coffee",
+                        "key": "coffee",
+                        "description": null,
+                        "points": 1
+                    },
+                    {
+                        "label": "Meditation or mindfulness",
+                        "key": "meditation",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "A good playlist or podcast",
+                        "key": "playlist",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "I'm more of a go-with-the-flow kind of person",
+                        "key": "go-with-the-flow",
+                        "description": null,
+                        "points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 2,
+            "key": "flavor-preference",
+            "content": {
+                "title": "What's your preferred flavor profile?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "Strong and bold",
+                        "key": "strong-bold",
+                        "description": null,
+                        "points": 1
+                    },
+                    {
+                        "label": "Earthy and natural",
+                        "key": "earthy-natural",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "Sweet and creamy",
+                        "key": "sweet-creamy",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "I'm not picky, I just want something that tastes good!",
+                        "key": "not-picky",
+                        "description": null,
+                        "points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 3,
+            "key": "health-conscious",
+            "content": {
+                "title": "How important is it to you to consume healthy and natural ingredients?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "It's a top priority",
+                        "key": "top-priority",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "It's important, but not the only thing I consider",
+                        "key": "important-but-not-only",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "I'm not really sure",
+                        "key": "not-sure",
+                        "description": null,
+                        "points": 1
+                    },
+                    {
+                        "label": "It's not really something I think about",
+                        "key": "not-think-about",
+                        "description": null,
+                        "points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 4,
+            "key": "mudwtr-experience",
+            "content": {
+                "title": "What are you looking for in a functional beverage?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "A natural energy boost without the jitters",
+                        "key": "natural-energy",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "A tasty and refreshing drink",
+                        "key": "tasty-refreshing",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "Something that will help me focus and be more productive",
+                        "key": "focus-productive",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "I'm not really sure",
+                        "key": "not-sure",
+                        "description": null,
+                        "points": 1
+                    },
+                    {
+                        "label": "Something that's just different from my usual coffee",
+                        "key": "different-coffee",
+                        "description": null,
+                        "points": 2
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,848 @@
+[
+    {
+        "title": "CIM10",
+        "description": "The most versatile IoT edge platform that drives digital transformation at scale within budget and on time",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "CIMCON Digital is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries, including manufacturing, water management, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "CIMCON Digital is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries, including manufacturing, water management, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries, including manufacturing, water management, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "CIMCON Digital is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries, including manufacturing, water management, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "CIMCON Digital is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries, including manufacturing, water management, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "VIBit Battery Powered is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "VIBit Lite is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "CIM10 is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "iEdge 360 is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMcloud is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMdata is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "Machine Astro is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "Anomaly Detection is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "Muni-AI Chatbot is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMCON Digital\u2019s iEdge 360 Platform",
+        "description": "CIMCON Digital\u2019s iEdge 360 Platform is a complete system that includes an edge management platform to complete the chain with sensor-to-cloud (or on-premises data network) integration under a single umbrella.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/smart-building-imgnew.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/smart-buildings/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital\u2019s VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "CIMCON Digital\u2019s CIM10 is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "CIMCON Digital\u2019s iEdge 360 is a complete system that includes an edge management platform to complete the chain with sensor-to-cloud (or on-premises data network) integration under a single umbrella.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMCON Digital\u2019s CIMcloud is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMCON Digital\u2019s CIMdata is a leading provider of Industrial Internet of Things (IoT) solutions, specializing in predictive and prescriptive maintenance for various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital\u2019s MachineAstro is a new machine-learning platform that helps machine OEMs analyze data and make decisions to reach their net zero goals.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "Easy-to-Install, Battery Powered, Tri-axial Vibration and Temperature Sensor for Anomaly Detection",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2023/09/bp-human-image.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMCON Digital\u2019s iEdge 360 Platform for Smart Manufacturing",
+        "description": "CIMCON Digital\u2019s iEdge 360 Platform is critical to unlock benefits from IoT, AI, & ML technologies to deliver better manufacturing outcomes.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/04/Visualizing-Plant-operations.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/smart-manufacturing/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "CIMCON Digital's CIM10 is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "CIMCON Digital's iEdge 360 is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMCON Digital's CIMcloud is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMCON Digital's CIMdata is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital's MachineAstro is a new machine-learning platform that helps machine OEMs analyze data and make decisions to reach their net zero goals.",
+        "image_url": null,
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "CIMCON Digital's CIM10 is a comprehensive IoT platform that provides real-time insights, predictive maintenance capabilities, and process automation solutions for various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "CIMCON Digital's iEdge 360 is a powerful edge computing platform that enables real-time data collection, analysis, and action for industrial assets.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMCON Digital's CIMcloud is a secure and scalable cloud platform that provides a centralized hub for data storage, analysis, and management.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMCON Digital's CIMdata is a comprehensive data analytics platform that provides insights into asset performance, operational efficiency, and predictive maintenance.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital's MachineAstro is a machine-learning platform that helps machine OEMs analyze data and make decisions to reach their net zero goals.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "CIMCON Digital's Anomaly Detection solution uses advanced algorithms to identify unusual patterns in asset data, enabling early detection of potential problems.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "CIMCON Digital's Muni-AI Chatbot is an AI-powered chatbot that provides instant answers to common questions about water management and industrial IoT solutions.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "The most versatile IoT edge platform that drives digital transformation at scale within budget and on time",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "CIMCON Digital's CIM10 is a comprehensive solution that combines edge computing, cloud platforms, and AI to deliver real-time insights, predictive maintenance capabilities, and process automation.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "CIMCON Digital's iEdge 360 is a powerful edge computing platform that enables seamless connectivity and data acquisition for industrial assets.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMCON Digital's CIMcloud provides a centralized management platform for deploying, provisioning, and authenticating edge devices.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMCON Digital's CIMdata is a robust data platform that provides insights and analytics for industrial operations.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital's Machine Astro is a machine learning platform that helps machine OEMs analyze data and make decisions to reach their net zero goals.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "The most versatile IoT edge platform that drives digital transformation at scale within budget and on time",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "MachineAstro is a powerful and cost-effective machine monitoring solution designed to help energy-intensive manufacturing Industries achieve their sustainability goals.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2023/05/MA-Email-bnr.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "Multiple VIBit Lites are wired to the CIM10, which runs advanced AI-based anomaly detection and diagnostic algorithms to predict and report on various faults such as misalignment, imbalance, structural and rotating looseness, soft foot, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/03/dots.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM 10",
+        "description": "The CIM10 is an intelligent edge device that runs advanced AI-based anomaly detection and diagnostic algorithms to predict and report on various faults such as misalignment, imbalance, structural and rotating looseness, soft foot, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/03/dots.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "The Ultimate Vibration Sensor for Accurate Predictive Maintenance",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/03/dots.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "Maximize Your Machine Uptime with VIBit. Intelligent Monitoring for Smarter Maintenance",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/03/dots.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "The CIM10 is a powerful edge device that enables you to take control of your machine data and analytics, delivering real-time insights and actionable intelligence to optimize your operations.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2023/05/FFT-1024x550.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "CIMCON Digital's iEdge 360 is a comprehensive solution that helps businesses optimize their operations and achieve their goals.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2023/05/FFT-1024x550.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "CIMCON Digital's CIMcloud is a secure and scalable cloud platform that provides businesses with the tools they need to manage their data and applications.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2023/05/FFT-1024x550.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "CIMCON Digital's CIMdata is a powerful data analytics platform that helps businesses gain insights from their data.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2023/05/FFT-1024x550.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "Machine Astro is a machine-learning platform that helps machine OEMs analyze data and make decisions to reach their net zero goals.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2023/05/FFT-1024x550.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM10",
+        "description": "The most versatile IoT edge platform that drives digital transformation at scale within budget and on time",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "CIMCON Digital's VIBit(Vibration Sensor) is a state-of-the-art sensor that monitors vibration levels in industrial assets, helping to detect early signs of wear and tear, and providing actionable insights to prevent costly downtime.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    }
+]

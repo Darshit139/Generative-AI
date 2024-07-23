@@ -1,0 +1,239 @@
+{
+    "name": "CIMCON Digital VIBit Quiz",
+    "description": "Test your knowledge of industrial vibration monitoring and discover how CIMCON Digital's VIBit can help optimize your operations.",
+    "priority": 1,
+    "results": [
+        {
+            "title": "Your Results Are...",
+            "label": "Vibration Novice",
+            "description": "You're new to the world of vibration monitoring. Learn how VIBit can help you detect early signs of wear and tear and prevent costly downtime.",
+            "image_url": "https://i.imgur.com/8UdKNS4.jpeg",
+            "result_calculation": {
+                "min": 0,
+                "max": 5
+            },
+            "reward": {
+                "reward_type": "points",
+                "value": "1000",
+                "description": "You've earned 1,000 CIMCON Digital loyalty points"
+            }
+        },
+        {
+            "title": "Your Results Are...",
+            "label": "Vibration Aware",
+            "description": "You understand the importance of vibration monitoring, but there's more to discover! Learn how VIBit can enhance your maintenance strategies.",
+            "image_url": "https://i.imgur.com/8UdKNS4.jpeg",
+            "result_calculation": {
+                "min": 6,
+                "max": 10
+            },
+            "reward": {
+                "reward_type": "points",
+                "value": "1000",
+                "description": "You've earned 1,000 CIMCON Digital loyalty points"
+            }
+        },
+        {
+            "title": "Your Results Are...",
+            "label": "Vibration Expert",
+            "description": "You're a true vibration monitoring pro! VIBit can further empower your expertise, helping you achieve greater efficiency and optimize your operations.",
+            "image_url": "https://i.imgur.com/8UdKNS4.jpeg",
+            "result_calculation": {
+                "min": 11,
+                "max": 15
+            },
+            "reward": {
+                "reward_type": "points",
+                "value": "1000",
+                "description": "You've earned 1,000 CIMCON Digital loyalty points"
+            }
+        }
+    ],
+    "cards": [
+        {
+            "card_type": "simple",
+            "key": "vibration-impact",
+            "order": 0,
+            "content": {
+                "title": "How significant is vibration monitoring in your industry?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "Critical for early detection of machine issues",
+                        "key": "critical-detection",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "Helpful but not essential",
+                        "key": "helpful-not-essential",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "Not relevant to my operations",
+                        "key": "not-relevant",
+                        "description": null,
+                        "points": 0
+                    },
+                    {
+                        "label": "Only important for specific machinery",
+                        "key": "specific-machinery",
+                        "description": null,
+                        "points": 1
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 1,
+            "key": "vibration-data",
+            "content": {
+                "title": "What do you do with vibration data?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "Analyze it to predict potential failures",
+                        "key": "predict-failures",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "Monitor it for immediate issues",
+                        "key": "monitor-issues",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "Don't collect or analyze vibration data",
+                        "key": "dont-collect",
+                        "description": null,
+                        "points": 0
+                    },
+                    {
+                        "label": "Use it for basic diagnostics",
+                        "key": "basic-diagnostics",
+                        "description": null,
+                        "points": 1
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 2,
+            "key": "vibration-challenges",
+            "content": {
+                "title": "What are your biggest challenges with vibration monitoring?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "Lack of real-time insights and predictive capabilities",
+                        "key": "lack-insights",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "Limited data access and analysis tools",
+                        "key": "limited-data",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "No challenges, my vibration monitoring is perfect",
+                        "key": "no-challenges",
+                        "description": null,
+                        "points": 0
+                    },
+                    {
+                        "label": "High costs and complex implementation",
+                        "key": "high-costs",
+                        "description": null,
+                        "points": 1
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 3,
+            "key": "vibration-technology",
+            "content": {
+                "title": "What are your thoughts on AI and machine learning in vibration monitoring?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "Essential for advanced analysis and predictions",
+                        "key": "essential-analysis",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "Potentially beneficial but still under development",
+                        "key": "potentially-beneficial",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "Not interested in AI or machine learning",
+                        "key": "not-interested",
+                        "description": null,
+                        "points": 0
+                    },
+                    {
+                        "label": "Only interested in traditional vibration monitoring methods",
+                        "key": "traditional-methods",
+                        "description": null,
+                        "points": 1
+                    }
+                ]
+            }
+        },
+        {
+            "card_type": "simple",
+            "order": 4,
+            "key": "vibit-interest",
+            "content": {
+                "title": "How interested are you in learning more about CIMCON Digital's VIBit?",
+                "description": null,
+                "image_url": null,
+                "icon": null,
+                "options": [
+                    {
+                        "label": "Very interested, I want to learn more now!",
+                        "key": "very-interested",
+                        "description": null,
+                        "points": 3
+                    },
+                    {
+                        "label": "Somewhat interested, I'd like to know more",
+                        "key": "somewhat-interested",
+                        "description": null,
+                        "points": 2
+                    },
+                    {
+                        "label": "Not interested at this time",
+                        "key": "not-interested",
+                        "description": null,
+                        "points": 0
+                    },
+                    {
+                        "label": "I'm curious, tell me more!",
+                        "key": "tell-me-more",
+                        "description": null,
+                        "points": 1
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+[
+    {
+        "title": "CIM10",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Battery Powered",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-battery-powered/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit Lite",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit-lite/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Machine Astro",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-astro/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Anomaly Detection",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/machine-anomaly/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "Muni-AI Chatbot",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/Transparent-Background_Final-1-1.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/muni-ai-asset-insights/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "iEdge 360",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/enabling-digital-transformation/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMcloud",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/icloud/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMdata",
+        "description": "The CIMCON Edge 360 platform provides an Edge platform with a secure cloud environment and all the necessary technology to make digital transformation directly accessible to industry in an effort to encourage and ease the IIoT transition among various industries.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/elementor/thumbs/cim10-dimension-pz3bz5j242v2ojnkprnm1xbsnberv7dg05l1a31ci2.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/data-drives/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMCON Digital\u2019s iEdge 360 Platform",
+        "description": "CIMCON Digital\u2019s iEdge 360 Platform is a complete system that includes an edge management platform to complete the chain with sensor-to-cloud (or on-premises data network) integration under a single umbrella.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/05/smart-building-imgnew.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/smart-buildings/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "VIBit",
+        "description": "CIMCON Digital\u2019s VIBit is an intelligent, powerful and compact sensor that monitors the conditions of machines or equipment\u2019s and predict their failures in advance using the latest AI/ML Technologies to avoid unplanned downtime saving time and money for the owners",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/12/vibit-cloud-img.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/vibit",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIMCON Digital\u2019s iEdge 360 Platform for Smart Manufacturing",
+        "description": "CIMCON Digital\u2019s iEdge 360 Platform is critical to unlock benefits from IoT, AI, & ML technologies to deliver better manufacturing outcomes.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/04/Visualizing-Plant-operations.jpg",
+        "source": "ai",
+        "link": "https://cimcondigital.com/smart-manufacturing/",
+        "metadata": {},
+        "product": "123456"
+    },
+    {
+        "title": "CIM 10",
+        "description": "The CIM10 is an intelligent edge device that runs advanced AI-based anomaly detection and diagnostic algorithms to predict and report on various faults such as misalignment, imbalance, structural and rotating looseness, soft foot, and more.",
+        "image_url": "https://cimcondigital.com/wp-content/uploads/2021/03/dots.png",
+        "source": "ai",
+        "link": "https://cimcondigital.com/cim10/",
+        "metadata": {},
+        "product": "123456"
+    }
+]

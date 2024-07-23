@@ -1,0 +1,205 @@
+2024-07-23 16:40:21,612 Starting main process.
+2024-07-23 16:40:21,623 Processed 94 entries and saved 13 unique entries with maximum length to CIMCON Digital/unique_product_cards.json.
+2024-07-23 16:40:21,623 Unique products card saved to files
+2024-07-23 16:40:21,625 Processing link: https://attendee.gotowebinar.com/recording/2224092549798696107
+2024-07-23 16:40:24,234 Error in social extraction for link https://attendee.gotowebinar.com/recording/2224092549798696107: object str can't be used in 'await' expression
+2024-07-23 16:40:24,235 Processing link: http://cimcondigital.com/cim10/#iotinbox
+2024-07-23 16:40:28,412 Error in social extraction for link http://cimcondigital.com/cim10/#iotinbox: object str can't be used in 'await' expression
+2024-07-23 16:40:28,418 Processing link: https://cimcondigital.com/muni-ai-asset-insights/
+2024-07-23 16:41:44,323 Starting main process.
+2024-07-23 16:41:44,335 Processed 94 entries and saved 13 unique entries with maximum length to CIMCON Digital/unique_products_card.json.
+2024-07-23 16:41:44,335 Unique products card saved to files
+2024-07-23 16:41:44,336 Processing link: https://attendee.gotowebinar.com/recording/2224092549798696107
+2024-07-23 16:41:46,919 Error in social extraction for link https://attendee.gotowebinar.com/recording/2224092549798696107: object str can't be used in 'await' expression
+2024-07-23 16:41:46,920 Processing link: http://cimcondigital.com/cim10/#iotinbox
+2024-07-23 16:43:15,137 Starting main process.
+2024-07-23 16:43:15,147 Processed 85 entries and saved 11 entries with maximum length to CIMCON Digital/unique_products.json.
+2024-07-23 16:43:15,148 Unique products saved to files
+2024-07-23 16:43:15,153 Processed 94 entries and saved 13 unique entries with maximum length to CIMCON Digital/unique_products_card.json.
+2024-07-23 16:43:15,154 Unique products card saved to files
+2024-07-23 16:43:15,155 Processing link: https://attendee.gotowebinar.com/recording/2224092549798696107
+2024-07-23 16:43:17,759 Error in social extraction for link https://attendee.gotowebinar.com/recording/2224092549798696107: object str can't be used in 'await' expression
+2024-07-23 16:43:17,760 Processing link: http://cimcondigital.com/cim10/#iotinbox
+2024-07-23 16:43:25,502 Starting main process.
+2024-07-23 16:43:25,507 Processing link: https://attendee.gotowebinar.com/recording/2224092549798696107
+2024-07-23 16:43:28,007 Error in social extraction for link https://attendee.gotowebinar.com/recording/2224092549798696107: object str can't be used in 'await' expression
+2024-07-23 16:43:28,008 Processing link: http://cimcondigital.com/cim10/#iotinbox
+2024-07-23 16:45:07,504 Starting main process.
+2024-07-23 16:45:07,510 Processing link: https://attendee.gotowebinar.com/recording/2224092549798696107
+2024-07-23 16:45:13,495 Processing link: http://cimcondigital.com/cim10/#iotinbox
+2024-07-23 16:45:51,689 Processing link: https://cimcondigital.com/muni-ai-asset-insights/
+2024-07-23 16:46:17,894 Processing link: https://cimcondigital.com/contact-us/
+2024-07-23 16:46:29,514 Processing link: https://cimcondigital.com/enabling-digital-transformation/
+2024-07-23 16:46:40,683 Processing link: https://cimcondigital.com/privacy-policy/
+2024-07-23 16:46:51,976 Processing link: https://cimcondigital.com/smart-buildings/
+2024-07-23 16:47:03,068 Processing link: https://cimcondigital.com/blog/
+2024-07-23 16:47:15,443 Processing link: https://cimcondigital.com/smart-everything/
+2024-07-23 16:47:26,322 Processing link: https://cimcondigital.com/vibit-battery-powered/
+2024-07-23 16:48:02,364 Processing link: https://cimcondigital.com/edge-computing/
+2024-07-23 16:48:14,522 Processing link: https://cimcondigital.com/social-wall/
+2024-07-23 16:48:25,347 Processing link: https://cimcondigital.com/data-drives/
+2024-07-23 16:48:35,791 Processing link: https://cimcondigital.com/smart-manufacturing/
+2024-07-23 16:48:46,243 Processing link: https://cimcondigital.com/smart-water-management/
+2024-07-23 16:48:57,595 Processing link: https://cimcondigital.com/smart-water/
+2024-07-23 16:48:59,480 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 16:48:59,481 Processing link: https://cimcondigital.com/machine-anomaly/
+2024-07-23 16:49:09,721 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 16:49:09,722 Processing link: http://cimcondigital.com/cim10/#keyfeatures
+2024-07-23 16:49:10,350 Error fetching http://cimcondigital.com/cim10/#keyfeatures: 502, message='Bad Gateway', url=URL('http://cimcondigital.com/cim10/#keyfeatures')
+2024-07-23 16:49:10,350 Processing link: https://share.hsforms.com/1KqlxBzBBSq6NfWVbUSw3Tg5lk9l
+2024-07-23 16:49:12,195 Processing link: https://cimcondigital.com/icloud/
+2024-07-23 16:49:23,602 Processing link: https://cimconautomation-9404121.hs-sites.com/ai-in-manufacturing
+2024-07-23 16:49:27,366 Processing link: https://cimcondigital.com/brochure/
+2024-07-23 16:49:38,310 Processing link: https://cimcondigital.com/latest-news/we-are-proud-to-have-participated-in-the-intelligent-manufacturing-exhibition-at-klcc-malaysia/
+2024-07-23 16:50:01,819 Processing link: https://cimcondigital.com/about/
+2024-07-23 16:50:13,486 Processing link: https://cimcondigital.com/ask-the-expert/
+2024-07-23 16:50:25,084 Processing link: https://cimcondigital.com/latest-news/
+2024-07-23 16:50:36,062 Processing link: https://cimcondigital.com/latest-news/introducing-muni-pr/
+2024-07-23 16:50:46,240 Processing link: https://cimcondigital.com/vibit
+2024-07-23 16:50:58,817 Processing link: https://cimcondigital.com/cim10#overview
+2024-07-23 16:51:11,213 Processing link: https://cimcondigital.com/machine-astro/
+2024-07-23 16:51:29,343 Processing link: https://cimcondigital.com/vibit-lite/
+2024-07-23 16:51:40,702 Processing link: https://attendee.gotowebinar.com/recording/2837471590864317965
+2024-07-23 16:51:45,075 Processing link: https://cimcondigital.com/webinars/
+2024-07-23 16:51:56,481 Processing link: https://cimcondigital.com/latest-news/cimcon-digital-introduces-vibit-bp-first-to-offer-wired-and-battery-powered-vibration-sensor-for-industrial-asset-maintenance
+2024-07-23 16:52:20,061 Processing link: https://cimcondigital.com/smart-everthing
+2024-07-23 16:52:24,739 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 16:52:24,739 Processing link: https://attendee.gotowebinar.com/recording/4687340536891025409
+2024-07-23 16:52:28,740 Processing link: https://cimcondigital.com/case-study/
+2024-07-23 16:52:39,716 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 16:52:39,717 Processing link: https://cimcondigital.com/latest-news/cimcon-digital-releases-favorable-end-of-year-results/
+2024-07-23 16:52:50,447 Processing link: https://cimcondigital.com/case-study/#usecases
+2024-07-23 16:53:24,696 Processing link: https://cimcondigital.com/latest-news/pioneering-industrial-transformation-through-visionary-leadership/
+2024-07-23 16:53:37,884 Processing link: https://attendee.gotowebinar.com/recording/6549753809054262798
+2024-07-23 16:53:43,105 Processing link: https://attendee.gotowebinar.com/recording/3642437249266791179
+2024-07-23 16:53:46,661 Processing link: https://register.gotowebinar.com/recording/5916199806872658950
+2024-07-23 16:53:49,753 Processing link: https://cimcondigital.com/most-promising-technology-company/
+2024-07-23 16:54:02,953 Processing link: https://cimcondigital.com/cim10/
+2024-07-23 16:54:15,021 Processing link: https://cimcondigital.com/latest-news/cimcon-digital-launches-its-new-product-machineastro/
+2024-07-23 16:54:25,579 Processing link: https://cimcondigital.com/careers/
+2024-07-23 16:54:36,884 Social links extracted and saved to CIMCON Digital/social_links.json
+2024-07-23 16:54:36,884 Main process completed.
+2024-07-23 17:07:54,740 Starting main process.
+2024-07-23 17:07:54,746 Processing link: https://attendee.gotowebinar.com/recording/2224092549798696107
+2024-07-23 17:07:57,449 Error in social extraction for link https://attendee.gotowebinar.com/recording/2224092549798696107: 'LLM' object has no attribute 'social_extractor'
+2024-07-23 17:07:57,449 Processing link: http://cimcondigital.com/cim10/#iotinbox
+2024-07-23 17:09:41,414 Starting main process.
+2024-07-23 17:09:41,419 Processing link: https://attendee.gotowebinar.com/recording/2224092549798696107
+2024-07-23 17:09:46,981 Processing link: http://cimcondigital.com/cim10/#iotinbox
+2024-07-23 17:09:59,850 Processing link: https://cimcondigital.com/muni-ai-asset-insights/
+2024-07-23 17:10:11,501 Processing link: https://cimcondigital.com/contact-us/
+2024-07-23 17:10:14,609 Error fetching https://cimcondigital.com/contact-us/: 502, message='Bad Gateway', url=URL('https://cimcondigital.com/contact-us/')
+2024-07-23 17:10:14,610 Processing link: https://cimcondigital.com/enabling-digital-transformation/
+2024-07-23 17:10:31,417 Processing link: https://cimcondigital.com/privacy-policy/
+2024-07-23 17:10:42,788 Processing link: https://cimcondigital.com/smart-buildings/
+2024-07-23 17:10:58,633 Processing link: https://cimcondigital.com/blog/
+2024-07-23 17:11:11,012 Processing link: https://cimcondigital.com/smart-everything/
+2024-07-23 17:11:23,138 Processing link: https://cimcondigital.com/vibit-battery-powered/
+2024-07-23 17:11:46,887 Processing link: https://cimcondigital.com/edge-computing/
+2024-07-23 17:11:58,131 Processing link: https://cimcondigital.com/social-wall/
+2024-07-23 17:12:15,612 Processing link: https://cimcondigital.com/data-drives/
+2024-07-23 17:12:27,238 Processing link: https://cimcondigital.com/smart-manufacturing/
+2024-07-23 17:12:37,396 Processing link: https://cimcondigital.com/smart-water-management/
+2024-07-23 17:12:47,741 Processing link: https://cimcondigital.com/smart-water/
+2024-07-23 17:12:49,461 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 17:12:49,462 Processing link: https://cimcondigital.com/machine-anomaly/
+2024-07-23 17:12:59,739 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 17:12:59,740 Processing link: http://cimcondigital.com/cim10/#keyfeatures
+2024-07-23 17:13:29,558 Processing link: https://share.hsforms.com/1KqlxBzBBSq6NfWVbUSw3Tg5lk9l
+2024-07-23 17:13:31,496 Processing link: https://cimcondigital.com/icloud/
+2024-07-23 17:13:42,566 Processing link: https://cimconautomation-9404121.hs-sites.com/ai-in-manufacturing
+2024-07-23 17:13:46,068 Processing link: https://cimcondigital.com/brochure/
+2024-07-23 17:13:58,790 Processing link: https://cimcondigital.com/latest-news/we-are-proud-to-have-participated-in-the-intelligent-manufacturing-exhibition-at-klcc-malaysia/
+2024-07-23 17:14:09,180 Processing link: https://cimcondigital.com/about/
+2024-07-23 17:14:19,421 Processing link: https://cimcondigital.com/ask-the-expert/
+2024-07-23 17:14:29,949 Processing link: https://cimcondigital.com/latest-news/
+2024-07-23 17:14:40,479 Processing link: https://cimcondigital.com/latest-news/introducing-muni-pr/
+2024-07-23 17:14:52,880 Processing link: https://cimcondigital.com/vibit
+2024-07-23 17:15:10,879 Processing link: https://cimcondigital.com/cim10#overview
+2024-07-23 17:15:24,375 Processing link: https://cimcondigital.com/machine-astro/
+2024-07-23 17:15:47,357 Processing link: https://cimcondigital.com/vibit-lite/
+2024-07-23 17:15:58,271 Processing link: https://attendee.gotowebinar.com/recording/2837471590864317965
+2024-07-23 17:16:02,573 Processing link: https://cimcondigital.com/webinars/
+2024-07-23 17:16:13,245 Processing link: https://cimcondigital.com/latest-news/cimcon-digital-introduces-vibit-bp-first-to-offer-wired-and-battery-powered-vibration-sensor-for-industrial-asset-maintenance
+2024-07-23 17:16:14,569 Error fetching https://cimcondigital.com/latest-news/cimcon-digital-introduces-vibit-bp-first-to-offer-wired-and-battery-powered-vibration-sensor-for-industrial-asset-maintenance: 502, message='Bad Gateway', url=URL('https://cimcondigital.com/latest-news/cimcon-digital-introduces-vibit-bp-first-to-offer-wired-and-battery-powered-vibration-sensor-for-industrial-asset-maintenance/')
+2024-07-23 17:16:14,571 Processing link: https://cimcondigital.com/smart-everthing
+2024-07-23 17:16:16,351 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 17:16:16,352 Processing link: https://attendee.gotowebinar.com/recording/4687340536891025409
+2024-07-23 17:16:20,494 Processing link: https://cimcondigital.com/case-study/
+2024-07-23 17:16:30,741 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 17:16:30,742 Processing link: https://cimcondigital.com/latest-news/cimcon-digital-releases-favorable-end-of-year-results/
+2024-07-23 17:16:41,596 Processing link: https://cimcondigital.com/case-study/#usecases
+2024-07-23 17:16:52,405 Processing link: https://cimcondigital.com/latest-news/pioneering-industrial-transformation-through-visionary-leadership/
+2024-07-23 17:17:06,633 Processing link: https://attendee.gotowebinar.com/recording/6549753809054262798
+2024-07-23 17:17:11,129 Processing link: https://attendee.gotowebinar.com/recording/3642437249266791179
+2024-07-23 17:17:14,626 Processing link: https://register.gotowebinar.com/recording/5916199806872658950
+2024-07-23 17:17:17,798 Processing link: https://cimcondigital.com/most-promising-technology-company/
+2024-07-23 17:17:28,484 Processing link: https://cimcondigital.com/cim10/
+2024-07-23 17:17:39,881 Processing link: https://cimcondigital.com/latest-news/cimcon-digital-launches-its-new-product-machineastro/
+2024-07-23 17:17:50,070 Processing link: https://cimcondigital.com/careers/
+2024-07-23 17:17:59,912 Social links extracted and saved to CIMCON Digital/social_links.json
+2024-07-23 17:17:59,913 Main process completed.
+2024-07-23 17:27:32,060 Starting main process.
+2024-07-23 17:29:35,376 ALL Social Links got.
+2024-07-23 17:29:35,379 LLM is calling for classification
+2024-07-23 17:39:11,834 Starting main process.
+2024-07-23 17:39:44,372 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 17:39:54,752 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 17:40:33,614 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 17:40:45,753 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 17:41:05,363 ALL Social Links got.
+2024-07-23 17:41:05,366 LLM is calling for classification
+2024-07-23 17:41:08,520 Main process completed.
+2024-07-23 17:44:16,948 Starting main process.
+2024-07-23 17:44:50,662 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 17:45:00,759 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 17:45:44,367 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 17:45:56,741 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 17:46:21,555 ALL Social Links got.
+2024-07-23 17:46:21,557 LLM is calling for classification
+2024-07-23 17:46:24,834 Main process completed.
+2024-07-23 18:12:56,036 Starting main process.
+2024-07-23 18:13:34,859 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 18:13:45,751 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 18:14:26,924 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 18:14:39,754 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 18:15:00,079 ALL Social Links got.
+2024-07-23 18:16:00,772 Starting main process.
+2024-07-23 18:16:37,900 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 18:16:48,753 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 18:17:27,897 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 18:17:40,735 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 18:18:02,069 ALL Social Links got.
+2024-07-23 18:20:23,185 Starting main process.
+2024-07-23 18:21:01,218 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 18:21:11,746 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 18:21:38,875 Error fetching https://cimcondigital.com/vibit-lite/: 502, message='Bad Gateway', url=URL('https://cimcondigital.com/vibit-lite/')
+2024-07-23 18:21:49,905 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 18:22:02,739 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 18:22:22,881 ALL Social Links got.
+2024-07-23 18:22:22,884 LLM is calling for classification
+2024-07-23 18:22:26,053 Main process completed.
+2024-07-23 18:26:29,234 Starting main process.
+2024-07-23 18:27:04,443 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 18:27:14,747 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 18:27:51,192 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 18:28:03,759 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 18:28:24,233 ALL Social Links got.
+2024-07-23 18:28:24,236 LLM is calling for classification
+2024-07-23 18:28:27,614 Main process completed.
+2024-07-23 18:41:43,824 Starting main process.
+2024-07-23 18:42:18,147 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 18:42:28,774 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 18:43:05,657 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 18:43:18,777 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 18:43:42,312 ALL Social Links got.
+2024-07-23 18:43:42,315 LLM is calling for classification
+2024-07-23 18:43:45,486 Main process completed.
+2024-07-23 18:46:54,112 Starting main process.
+2024-07-23 18:47:30,254 Error fetching https://cimcondigital.com/smart-water/: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-water/')
+2024-07-23 18:47:40,781 Timeout error fetching https://cimcondigital.com/machine-anomaly/
+2024-07-23 18:48:16,155 Error fetching https://cimcondigital.com/smart-everthing: 404, message='Not Found', url=URL('https://cimcondigital.com/smart-everthing')
+2024-07-23 18:48:28,780 Timeout error fetching https://cimcondigital.com/case-study/
+2024-07-23 18:48:48,462 ALL Social Links got.
+2024-07-23 18:48:48,465 LLM is calling for classification
+2024-07-23 18:48:51,873 Main process completed.
